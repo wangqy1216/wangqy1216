@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science at Texas A&M University33.
+- 🎓 &nbsp; Studying Computer Science at Texas A&M University.
 - 💼 &nbsp; Worked as a Software Engineer at Arbin Instruments.
 - 🌱 &nbsp; Learning more about Full-stack Development, Machine Learning and Deep Learning.
 - ✍️ &nbsp; Pursuing Entry-level Software Engineer and Machine Learning Engineer Position.
@@ -34,12 +34,16 @@
   ![Microsoft Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=5C2D91)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=Vim&logoColor=019733)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter&logoColor=F37626)
+- ⌨️ &nbsp;
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow&logoColor=FF6F00)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=Mathworks&logoColor=0076A8)
+  
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/wangqy1216">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wangqy1216&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqy1216&theme=buefy&layout=compact" />
 </a>
