@@ -54,7 +54,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://wangqiyu0912.wixsite.com/resume"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/qiyu-wang-71919516b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="wangqy0912@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://wangqiyu0912.wixsite.com/resume"><img alt="Website" src="https://img.shields.io/badge/Website-www.wangqy.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/qiyu-wang-71919516b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Qiyu%Wang%-blue?style=flat-square&logo=linkedin"></a>
+<a href="wangqy0912@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wangqiyu0912@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
